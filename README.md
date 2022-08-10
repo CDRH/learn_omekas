@@ -1,4 +1,4 @@
-# Omeka S Import Starter Files
+# Omeka S Import Instructions
 
 This repo has a few files to help test Omeka S import. 
 
